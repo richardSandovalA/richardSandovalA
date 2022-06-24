@@ -1,4 +1,4 @@
-# ** RSandova Perfil**
+# **RSandova Perfil**
 
 Mi nombre es Richard Sandoval 
 - Actualmente estoy cursando el magister en Data Science en las Universidad 
