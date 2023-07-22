@@ -1,4 +1,4 @@
-# **RSandoval gihHub**
+# **RSandoval gitHub**
 
 Mi nombre es Richard Sandoval 
 - Actualmente terminando magister en Data Science en las Universidad San Sebastian
