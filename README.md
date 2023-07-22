@@ -1,4 +1,4 @@
-# **RSandova Perfil**
+# **RSandoval gihHub**
 
 Mi nombre es Richard Sandoval 
 - Actualmente terminando magister en Data Science en las Universidad San Sebastian
