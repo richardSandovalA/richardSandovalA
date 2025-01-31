@@ -1,7 +1,9 @@
 # **RSandoval gitHub**
 
 Mi nombre es Richard Sandoval 
-- Actualmente terminando magister en Data Science en las Universidad San Sebastian
+- Actualmente terminando diplomado en IA generativa para empresas en la universidad de chile,
+- magister en Data Science en las Universidad San Sebastian
+- realice un diploma de especializacion en IoT en la Universidad Catolica de Valparaiso.
 
 - Tengo experiencia..
   Desarrollo de aplicaciones, en C#, python.. Php,
@@ -13,7 +15,7 @@ Mi nombre es Richard Sandoval
   Power BI
   QlikView
 
-- Me gusta el modelado de datos y trabajar con machine learning
+- Me gusta el modelado de datos , trabajar algoritmos machine learning y modelos LLMS con IA generativa.
 
 
 Algunos hobbies..
